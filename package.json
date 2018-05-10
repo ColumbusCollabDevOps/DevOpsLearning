@@ -1,5 +1,5 @@
 {
-    "name": "hello-world",
+    "name": "Greetings",
     "description": "Sample NodeJs web application",
     "version": "0.0.1",
     "private": true,
