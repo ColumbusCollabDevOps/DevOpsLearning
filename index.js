@@ -3,6 +3,7 @@
 var fs = require('fs');
 var path = require('path');
 
+//Comment of no value
 exports.get = function(event, context, callback) {
   var contents = fs.readFileSync(`public${path.sep}index.html`);
   var result = {
